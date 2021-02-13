@@ -4,11 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AP Humman Geography vocabulary</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="main.js"></script>
 </head>
+<style>
+    *{
+        margin-bottom: 10pt;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    center{
+        margin-top: 30pt;
+        margin-bottom: 30pt;
+    }
+    h1{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        margin-bottom: 50pt;
+    }
+    input{
+        padding: 7pt;
+        border-radius: 5pt;
+        border: 2pt solid black;
+    }
+    button{
+        padding: 5pt;
+        border-radius: 5pt;
+        background-color: white;
+        border: 1pt solid darkgrey;
+    }
+    button:hover{
+        background-color: black;
+        color: white;
+    }
+</style>
 <body>
     <center>
-
+        <h1>
+            AP Human Geography Vocab Database
+        </h1>
+        <p>What word do you want to find?</p>
+        <input type="text" id="word_search" placeholder="Term:">
+        <br>
+        <button onclick="main();">Search</button>
+        <p style="margin-bottom: 20pt;"></p>
     </center>
+    <div id="Output" style="margin-left: 250pt; margin-right: 250pt;">
+
+    </div>
 </body>
 </html>
