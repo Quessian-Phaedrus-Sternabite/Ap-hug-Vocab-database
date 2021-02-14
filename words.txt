@@ -149,3 +149,239 @@ frontier
 functional region
 fundamentalism
 fusion
+gender inequality index
+gender-related development index
+genetically modified organism
+genocide
+gentrification
+geographic information science
+geographic information system
+geotagging
+geothermal energy
+gerrymandering
+ghetto
+global positioning system
+globalization
+grain
+gravity model
+green revolution
+greenhouse effect
+greenwich mean time
+gross domestic product
+gross national income
+guest worker
+habit
+hearth
+hierarchical diffusion
+hierarchical religion
+hinterland
+horticulture
+human development index
+humanistic geography
+hydrosphere
+immigration
+industrial revolution
+inequality-adjusted human development index (ihdi) 
+infant mortality rate
+informal settlement
+institutional language
+intensive subsistence agriculture
+internal migration
+internally displaced person
+international date line
+international migration
+interregional migration
+intervening obstacle
+intraregional migration
+isogloss
+isolated language
+just-in-time delivery
+labor-intensive industry
+landlocked state
+language
+language branch
+language family
+language group
+latitude
+life expectancy
+lingua franca
+literacy rate
+literary tradition
+lithosphere
+location
+logogram
+longitude
+map
+map scale
+maquiladora
+market area
+mashup
+maternal mortality rate
+medical revolution
+megalopolis
+mental map
+meridian
+metropolitan statistical area
+microfinance
+micropolitan statistical area 
+microstate
+migration
+migration transition
+milkshed
+millennium development goals
+missionary
+mixed crop and livestock farming
+mobility
+monotheism
+multiethnic state
+multinational state
+multiple nuclei model
+nation-state
+nationalism
+nationality
+natural increase rate 
+net migration
+network
+new international division of labor
+no tillage
+nonbasic business
+nonconsumptive water usage
+nonpoint source pollution
+nonrenewable energy
+nonrenewable resource
+official language
+outsourcing
+overfishing
+overpopulation
+ozone
+paddy
+pandemic
+parallel
+participatory gis
+passive solar energy systems
+pastoral nomadism
+pattern
+perforated state
+peripheral model
+photochemical smog
+physiological density
+pidgin language
+pilgrimage
+place
+plantation
+point source pollution
+polder
+pollution
+polytheism
+popular culture
+population pyramid
+possibilism
+post-fordist production
+poststructuralist geography
+potential reserve
+preservation
+primary census area
+primary sector
+primate city
+primate city rule
+prime agricultural land
+prime meridian
+productivity
+projection
+prorupted state
+proven reserve
+public housing
+public service
+pull factor
+pupil/teacher ratio
+purchasing power parity 
+push factor
+quota
+race
+racism
+racist
+ranching
+range
+rank-size rule
+received pronunciation
+recycling
+redlining
+refugee
+region
+relocation diffusion
+remittance
+remote sensing
+renewable energy
+renewable resource
+resource
+ridge tillage
+right-to-work law
+rush hour
+sanitary landfill
+sawah
+scale
+secondary sector
+sector model
+self-determination
+service
+settlement
+sex ratio
+sharecropper
+shifting cultivation
+site
+site factors
+situation
+situation factors
+slash-and-burn agriculture
+smart growth
+social area analysis
+solstice
+sovereignty
+space
+space—time compression
+spanglish
+spatial association
+sprawl
+standard language
+state
+stimulus diffusion
+structural adjustment program
+subdialect
+subsistence agriculture
+suburb
+sustainability
+sustainable development
+sustainable development goals
+swidden
+syncretism
+taboo
+terroir
+terrorism
+tertiary sector
+threshold
+toponym
+total fertility rate 
+transhumance
+transnational corporation
+triangular slave trade
+truck farming
+unauthorized immigrant
+underclass
+undernourishment
+uneven development
+unitary state
+universalizing religion
+urban area
+urban cluster
+urbanization
+urbanized area
+value added
+vernacular region
+vertical integration
+vigorous language
+voluntary migration
+volunteered geographic information
+vulgar latin
+wet rice
+zero population growth
+zoning ordinance
