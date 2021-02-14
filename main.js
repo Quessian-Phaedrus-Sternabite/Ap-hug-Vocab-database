@@ -1,16 +1,28 @@
-let words = ["abiotic", "active solar energy", "acculturation"];
-let definition = [
-    "Composed of nonliving or inorganic matter.", 
-    "Solar radiation captured with photovoltaic cells that convert light energy to electrical energy.", 
-    "The process of changes in culture that result from the meeting of two groups, each of which retains distinct culture features."
-];
+// Load words.txt to an Array
+let words = new Array();
+    $.get("words.txt", function(data){
+            words = data.split("\n");
+        });
 
+// Load deffinition.txt into an array
+let definition = new Array();
+    $.get("deffinitions.txt", function(data){
+            definition = data.split("\n");
+    });
+
+// Buffer variable for the ouput of the text
 var output = "";
 
+
+// Main function, executed on button press
 function main(){
+    // Get word in the input box
     let term = $("#word_search").val();
+    // Get the words index
     let index1 = words.indexOf(term.toLowerCase());
+    // Adds the definition and the term to the ouput
     output += "<p>" + term + ": " + definition[index1] + "</p>";
-    console.log(output);
+    // Ouputs the output
     $("#Output").html(output);
 };
+
