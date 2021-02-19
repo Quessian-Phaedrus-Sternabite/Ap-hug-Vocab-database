@@ -20,7 +20,7 @@ function main(){
     // Get the words index
     let index1 = words.indexOf(term.toLowerCase());
     // Adds the definition and the term to the ouput
-    output += "<p>" + term + ": " + definition[index1] + "</p>";
+    output += "<p>" + term + " - " + definition[index1] + "</p>";
     // Ouputs the output
     $("#Output").html(output);
 };
