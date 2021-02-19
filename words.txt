@@ -233,8 +233,8 @@ missionary
 mixed crop and livestock farming
 mobility
 monotheism
-multiethnic state
-multinational state
+multi-ethnic state
+multi-national state
 multiple nuclei model
 nation-state
 nationalism
@@ -385,3 +385,6 @@ vulgar latin
 wet rice
 zero population growth
 zoning ordinance
+nation
+centrifugal force
+devoltuion

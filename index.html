@@ -20,7 +20,7 @@
     }
     h1{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        margin-bottom: 50pt;
+        margin-bottom: 20pt;
     }
     input{
         padding: 7pt;
@@ -33,8 +33,15 @@
         background-color: white;
         border: 1pt solid darkgrey;
     }
+    a{
+        text-decoration:none;
+        color:black;
+    }
     button:hover{
         background-color: black;
+        color: white;
+    }
+    a:hover {
         color: white;
     }
 </style>
@@ -43,6 +50,9 @@
         <h1>
             AP Human Geography Automated Glossary
         </h1>
+        <button>
+            <a href="dispAll.html">Show all words in Glossory</a>
+        </button>
         <p style="margin-bottom: 5pt; color: red; font-size: 10pt;">Words must be inputed exacly as they appear in the text unless there is an Acronym after the name in which case the acronym should be omited</p>
         <p>What word do you want to find?</p>
         <input type="text" id="word_search" placeholder="Term:">
