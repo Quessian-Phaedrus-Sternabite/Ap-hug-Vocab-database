@@ -10,19 +10,18 @@ $.get("deffinitions.txt", function(data){
         definition = data.split("\n");
     });
 
-function main(){
+function main() {
     // The array of all finished data for the glossory
     let finished_array = [];
 
-    for(let i in words){
+    for (let i in words) {
         finished_array.push(words[i] + " - " + definition[i]);
     };
     // Sort the main data storage array
     finished_array.sort();
-
+    // Display buffer
     let buffer = "";
-
-    for(let i in finished_array){
+    for (let i in finished_array) {
         buffer += "<p>" + finished_array[i] + "</p>";
     };
 
