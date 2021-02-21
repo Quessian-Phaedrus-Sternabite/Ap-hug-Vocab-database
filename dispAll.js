@@ -27,3 +27,5 @@ function main() {
 
     $("#Display").html(buffer);
 };
+
+main();
