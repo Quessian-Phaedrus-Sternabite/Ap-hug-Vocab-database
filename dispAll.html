@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Full Glossory</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script type="text/javascript" src="dispAll.js" defer></script>
+    <script src="dispAll.js"></script>
 </head>
 <style>
     *{
@@ -19,11 +19,11 @@
         margin-bottom: 10pt;
     }
 </style>
-<body>
+<body onload={main();}>
     <h1 style="margin-bottom: 20pt;">
         AP HUG Vocab Glossary
     </h1>
-    <button onclick="main();">Load Glossary</button>
     <div id="Display"></div>
+    <button onclick="main();">Reload</button>
 </body>
 </html>
