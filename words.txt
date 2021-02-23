@@ -1,255 +1,255 @@
 abiotic
-active solar energy
+activesolarenergy
 acculturation
-acid deposition
-acid precipitation
-adolescent fertility rate
+aciddeposition
+acidprecipitation
+adolescentfertilityrate
 agnosticism
 agribusiness
-agricultural density
-agricultural revolution
+agriculturaldensity
+agriculturalrevolution
 agriculture
-air pollution
-animate power
+airpollution
+animatepower
 animism
 annexation
 anocracy
 apartheid
 aquaculture
-arithmetic density
+arithmeticdensity
 assimilation
-asylum seeker
+asylumseeker
 atheism
 atmosphere
 autocracy
-autonomous religion
-balance of power
+autonomousreligion
+balanceofpower
 balkanization
 balkanized
-basic business
-behavioral geography
-biochemical oxygen demand
-biomass fuel
+basicbusiness
+behavioralgeography
+biochemicaloxygendemand
+biomassfuel
 biosphere
 biotic
 blockbusting
 boundary
-brain drain
+braindrain
 branch
-break-of-bulk point
-bulk-gaining industry
-bulk-reducing industry
-business service
-carbon capture and storage
+break-of-bulkpoint
+bulk-gainingindustry
+bulk-reducingindustry
+businessservice
+carboncaptureandstorage
 cartography
 caste
 census
-census tract
-central business district
-central city
-central place
-central place theory
-centripetal force
-cereal grain
-chain migration
+censustract
+centralbusinessdistrict
+centralcity
+centralplace
+centralplacetheory
+centripetalforce
+cerealgrain
+chainmigration
 chlorofluorocarbon
-circular migration
+circularmigration
 circulation
-citizen science
+citizenscience
 city-state
 climate
-clustered rural settlement
+clusteredruralsettlement
 colonialism
 colony
-combined statistical area
-commercial agriculture
-compact state
+combinedstatisticalarea
+commercialagriculture
+compactstate
 concentration
-concentric zone model
+concentriczonemodel
 congregation
 connection
 conservation
-consumer service
-consumptive water usage
-contagious diffusion
-cooperative store
-core-based statistical area
+consumerservice
+consumptivewaterusage
+contagiousdiffusion
+cooperativestore
+core-basedstatisticalarea
 cosmogony
-cottage industry
-counter urbanization
-creole language
+cottageindustry
+counterurbanization
+creolelanguage
 crop
-crop rotation
-crude birth rate
-crude death rate
-cultural ecology
-cultural landscape
+croprotation
+crudebirthrate
+crudedeathrate
+culturalecology
+culturallandscape
 culture
 custom
-dairy farm
+dairyfarm
 democracy
-demographic transition
+demographictransition
 demography
 denglish
 denomination
 density
-density gradient
-dependency ratio
+densitygradient
+dependencyratio
 desertification
-developed country
-developing country
-developing language
+developedcountry
+developingcountry
+developinglanguage
 development
 dialect
-dietary energy consumption
+dietaryenergyconsumption
 diffusion
-dispersed rural settlement
-distance decay
+dispersedruralsettlement
+distancedecay
 distribution
-double cropping
-doubling time
-ebonics  
-ecology  
-economic base  
-ecosystem  
-ecumene  
-edge city  
-elderly support ratio  
-elongated state  
-emigration  
-enclosure movement  
-environmental determinism  
-epidemiologic transition  
-epidemiology  
-ethnic cleansing  
-ethnic enclave  
-ethnic religion  
-ethnicity  
-ethnoburb  
-expansion diffusion  
-extinct language
-fair trade
-federal state
-female labor force participation rate
+doublecropping
+doublingtime
+ebonics
+ecology
+economicbase
+ecosystem
+ecumene
+edgecity
+elderlysupportratio
+elongatedstate
+emigration
+enclosuremovement
+environmentaldeterminism
+epidemiologictransition
+epidemiology
+ethniccleansing
+ethnicenclave
+ethnicreligion
+ethnicity
+ethnoburb
+expansiondiffusion
+extinctlanguage
+fairtrade
+federalstate
+femalelaborforceparticipationrate
 filtering
 fishing
 fission
 floodplain
-folk culture
-food desert
-food security
-forced migration
-fordist production
-foreign direct investment
-formal region
-fossil fuel
-fragmented state
+folkculture
+fooddesert
+foodsecurity
+forcedmigration
+fordistproduction
+foreigndirectinvestment
+formalregion
+fossilfuel
+fragmentedstate
 franglais
 frontier
-functional region
+functionalregion
 fundamentalism
 fusion
-gender inequality index
-gender-related development index
-genetically modified organism
+genderinequalityindex
+gender-relateddevelopmentindex
+geneticallymodifiedorganism
 genocide
 gentrification
-geographic information science
-geographic information system
+geographicinformationscience
+geographicinformationsystem
 geotagging
-geothermal energy
+geothermalenergy
 gerrymandering
 ghetto
-global positioning system
+globalpositioningsystem
 globalization
 grain
-gravity model
-green revolution
-greenhouse effect
-greenwich mean time
-gross domestic product
-gross national income
-guest worker
+gravitymodel
+greenrevolution
+greenhouseeffect
+greenwichmeantime
+grossdomesticproduct
+grossnationalincome
+guestworker
 habit
 hearth
-hierarchical diffusion
-hierarchical religion
+hierarchicaldiffusion
+hierarchicalreligion
 hinterland
 horticulture
-human development index
-humanistic geography
+humandevelopmentindex
+humanisticgeography
 hydrosphere
 immigration
-industrial revolution
-inequality-adjusted human development index (ihdi) 
-infant mortality rate
-informal settlement
-institutional language
-intensive subsistence agriculture
-internal migration
-internally displaced person
-international date line
-international migration
-interregional migration
-intervening obstacle
-intraregional migration
+industrialrevolution
+inequality-adjustedhumandevelopmentindex
+infantmortalityrate
+informalsettlement
+institutionallanguage
+intensivesubsistenceagriculture
+internalmigration
+internallydisplacedperson
+internationaldateline
+internationalmigration
+interregionalmigration
+interveningobstacle
+intraregionalmigration
 isogloss
-isolated language
-just-in-time delivery
-labor-intensive industry
-landlocked state
+isolatedlanguage
+just-in-timedelivery
+labor-intensiveindustry
+landlockedstate
 language
-language branch
-language family
-language group
+languagebranch
+languagefamily
+languagegroup
 latitude
-life expectancy
-lingua franca
-literacy rate
-literary tradition
+lifeexpectancy
+linguafranca
+literacyrate
+literarytradition
 lithosphere
 location
 logogram
 longitude
 map
-map scale
+mapscale
 maquiladora
-market area
+marketarea
 mashup
-maternal mortality rate
-medical revolution
+maternalmortalityrate
+medicalrevolution
 megalopolis
-mental map
+mentalmap
 meridian
-metropolitan statistical area
+metropolitanstatisticalarea
 microfinance
-micropolitan statistical area 
+micropolitanstatisticalarea
 microstate
 migration
-migration transition
+migrationtransition
 milkshed
-millennium development goals
+millenniumdevelopmentgoals
 missionary
-mixed crop and livestock farming
+mixedcropandlivestockfarming
 mobility
 monotheism
-multi-ethnic state
-multi-national state
-multiple nuclei model
+multi-ethnicstate
+multi-nationalstate
+multiplenucleimodel
 nation-state
 nationalism
 nationality
-natural increase rate 
-net migration
+naturalincreaserate
+netmigration
 network
-new international division of labor
-no tillage
-nonbasic business
-nonconsumptive water usage
-nonpoint source pollution
-nonrenewable energy
-nonrenewable resource
-official language
+newinternationaldivisionoflabor
+notillage
+nonbasicbusiness
+nonconsumptivewaterusage
+nonpointsourcepollution
+nonrenewableenergy
+nonrenewableresource
+officiallanguage
 outsourcing
 overfishing
 overpopulation
@@ -257,154 +257,154 @@ ozone
 paddy
 pandemic
 parallel
-participatory gis
-passive solar energy systems
-pastoral nomadism
+participatorygis
+passivesolarenergysystems
+pastoralnomadism
 pattern
-perforated state
-peripheral model
-photochemical smog
-physiological density
-pidgin language
+perforatedstate
+peripheralmodel
+photochemicalsmog
+physiologicaldensity
+pidginlanguage
 pilgrimage
 place
 plantation
-point source pollution
+pointsourcepollution
 polder
 pollution
 polytheism
-popular culture
-population pyramid
+popularculture
+populationpyramid
 possibilism
-post-fordist production
-poststructuralist geography
-potential reserve
+post-fordistproduction
+poststructuralistgeography
+potentialreserve
 preservation
-primary census area
-primary sector
-primate city
-primate city rule
-prime agricultural land
-prime meridian
+primarycensusarea
+primarysector
+primatecity
+primatecityrule
+primeagriculturalland
+primemeridian
 productivity
 projection
-prorupted state
-proven reserve
-public housing
-public service
-pull factor
-pupil/teacher ratio
-purchasing power parity 
-push factor
+proruptedstate
+provenreserve
+publichousing
+publicservice
+pullfactor
+pupil/teacherratio
+purchasingpowerparity
+pushfactor
 quota
 race
 racism
 racist
 ranching
 range
-rank-size rule
-received pronunciation
+rank-sizerule
+receivedpronunciation
 recycling
 redlining
 refugee
 region
-relocation diffusion
+relocationdiffusion
 remittance
-remote sensing
-renewable energy
-renewable resource
+remotesensing
+renewableenergy
+renewableresource
 resource
-ridge tillage
-right-to-work law
-rush hour
-sanitary landfill
+ridgetillage
+right-to-worklaw
+rushhour
+sanitarylandfill
 sawah
 scale
-secondary sector
-sector model
+secondarysector
+sectormodel
 self-determination
 service
 settlement
-sex ratio
+sexratio
 sharecropper
-shifting cultivation
+shiftingcultivation
 site
-site factors
+sitefactors
 situation
-situation factors
-slash-and-burn agriculture
-smart growth
-social area analysis
+situationfactors
+slash-and-burnagriculture
+smartgrowth
+socialareaanalysis
 solstice
 sovereignty
 space
-space—time compression
+space—timecompression
 spanglish
-spatial association
+spatialassociation
 sprawl
-standard language
+standardlanguage
 state
-stimulus diffusion
-structural adjustment program
+stimulusdiffusion
+structuraladjustmentprogram
 subdialect
-subsistence agriculture
+subsistenceagriculture
 suburb
 sustainability
-sustainable development
-sustainable development goals
+sustainabledevelopment
+sustainabledevelopmentgoals
 swidden
 syncretism
 taboo
 terroir
 terrorism
-tertiary sector
+tertiarysector
 threshold
 toponym
-total fertility rate 
+totalfertilityrate
 transhumance
-transnational corporation
-triangular slave trade
-truck farming
-unauthorized immigrant
+transnationalcorporation
+triangularslavetrade
+truckfarming
+unauthorizedimmigrant
 underclass
 undernourishment
-uneven development
-unitary state
-universalizing religion
-urban area
-urban cluster
+unevendevelopment
+unitarystate
+universalizingreligion
+urbanarea
+urbancluster
 urbanization
-urbanized area
-value added
-vernacular region
-vertical integration
-vigorous language
-voluntary migration
-volunteered geographic information
-vulgar latin
-wet rice
-zero population growth
-zoning ordinance
+urbanizedarea
+valueadded
+vernacularregion
+verticalintegration
+vigorouslanguage
+voluntarymigration
+volunteeredgeographicinformation
+vulgarlatin
+wetrice
+zeropopulationgrowth
+zoningordinance
 nation
-centrifugal force
+centrifugalforce
 devolution
-autonomous region
-berlin conference
+autonomousregion
+berlinconference
 chokepoint
 shelterbelt
-cold war
+coldwar
 geopolitics
-geographic boundaries
+geographicboundaries
 opec
 imperialism
 decolonization
 neocolonialism
 geopolitics
-heartland theory
+heartlandtheory
 morphology
-rimland theory
-united nations
+rimlandtheory
+unitednations
 nato
 territoriality
-cultural boundaries
+culturalboundaries
 democratization
