@@ -10,8 +10,6 @@ let definition = new Array();
             definition = data.split("\n");
     });
 
-// Buffer variable for the ouput of the text
-let output = "";
 
 // Main function, executed on button press
 function main(){
@@ -20,7 +18,7 @@ function main(){
     // Get the words index
     let index1 = words.indexOf(term.toLowerCase());
     // Adds the definition and the term to the ouput
-    output += "<p>" + term + " - " + definition[index1] + "</p>";
+    output = "<p>" + term + " - " + definition[index1] + "</p>";
     // Ouputs the output
     $("#Output").html(output);
 };
