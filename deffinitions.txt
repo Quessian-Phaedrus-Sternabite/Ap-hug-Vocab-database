@@ -1,8 +1,8 @@
 Composed of nonliving or inorganic matter.
-Solar radiation captured with photovoltaic cells that convert light energy to electrical energy.
 The process of changes in culture that result from the meeting of two groups, each of which retains distinct culture features.
 The accumulation of acids on Earth’s surface.
 Conversion of sulfur oxides and nitrogen oxides to acids that return to Earth as rain, snow, or fog.
+Solar radiation captured with photovoltaic cells that convert light energy to electrical energy.
 The number of births per 1,000 women ages 15 to 19.
 The belief that the existence of God can’t be proven empirically.
 Commercial agriculture characterized by the integration of different steps in the food-processing industry, usually through ownership by large corporations.
@@ -22,12 +22,14 @@ Someone who has migrated to another country in the hope of being recognized as a
 The belief that God does not exist.
 The thin layer of gases surrounding Earth.
 A country that is run according to the interests of the ruler rather than the people.
+An area of a country that has degree of autonomy , or has freedom from an external authority.
 A religion that does not have a central authority but shares ideas and cooperates informally.
 A condition of roughly equal strength between opposing countries or alliances of countries.
 A process by which a state breaks down through conflicts among its ethnicities.
 A small geographic area that cannot successfully be organized into stable countries because it is inhabited by many ethnicities with complex, long-standing antagonisms toward each other.
 A business that sells its products or services primarily to consumers outside the settlement.
 The study of the psychological basis for individual human actions in space.
+A meeting from 1884-1885 at which representatives of European nations agreed on rules colonization of Africa.
 The amount of oxygen required by aquatic bacteria to decompose a given load of organic waste; a measure of water pollution.
 Fuel derived from wood, plant material, or animal waste.
 All living organisms on Earth, including plants and animals, as well as microorganisms.
@@ -49,16 +51,19 @@ The area of a city where retail and office activities are clustered.
 An urban settlement that has been legally incorporated into an independent, self-governing unit known as a municipality.
 A market center for the exchange of services by people attracted from the surrounding area.
 A theory that explains the distribution of services based on the fact that settlements serve as centers of market areas for services; larger settlements are fewer and farther apart than smaller settlements and provide services for a larger number of people who are willing to travel farther.
+Forces that can divide a nation.
 An attitude that tends to unify people and enhance support for a state.
 A grass that yields grain for food.
 Migration of people to a specific location because relatives or members of the same nationality previously migrated there.
 A gas used as a solvent, a propellant in aerosols, a refrigerant, and in plastic foams and fire extinguishers.
+A geographical feature on land such as a valley, defile or a bridge, or at sea such as a straight which an armed force is forced to pass, therefore greatly decreasing its combat, in order to reach its objective.
 The temporary movement of a migrant worker between home and host countries to seek employment.
 Short-term, repetitive, or cyclical movements that recur on a regular basis.
 Scientific research by amateur scientists.
 A sovereign state comprising a city and its immediate hinterland.
 The long-term average weather condition at a particular ­location.
 A rural settlement in which the houses and farm buildings of each family are situated close to each other, with fields surrounding the settlement.
+A state of political tension and military rivalry between nations that stops short of full-scale war, especially that which existed between the United States and Soviet Union following World War II.
 An attempt by one country to establish settlements and to impose its political, economic, and cultural principles in another territory.
 A territory that is legally tied to a sovereign state rather than completely independent.
 In the United States, two or more contiguous CBSAs tied together by commuting patterns.
@@ -82,12 +87,15 @@ Any plant gathered from a field as a harvest during a particular season.
 The practice of rotating use of different fields from crop to crop each year to avoid exhausting the soil.
 The total number of live births in a year for every 1,000 people alive in the society.
 The total number of deaths in a year for every 1,000 people alive in the society.
+A cultural boundary, or cultural area, defines a geographic area wherein a group of people share the same cultural practices and traditions.
 A geographic approach that emphasizes human—environment relationships.
 An approach to geography that emphasizes the relationships among social and physical phenomena in a particular study area.
 The body of customary beliefs, social forms, and material traits that together constitute a group’s distinct tradition.
 The frequent repetition of an act, to the extent that it becomes characteristic of the group of people performing the act.
 A form of commercial agriculture that specializes in the production of milk and other dairy products.
+The action of changing from colonial to independent status.
 A country in which citizens elect leaders and can run for office.
+The introduction of a democratic system or democratic principles.
 The process of change in a society’s population from a condition of high crude birth and death rates and low rate of natural increase to a condition of low crude birth and death rates, low rate of natural increase, and higher total population.
 The scientific study of population characteristics.
 A combination of Deutsch (the German word for German) and English.
@@ -100,6 +108,7 @@ A country that has progressed relatively far along a continuum of development.
 A country that is at a relatively early stage in the process of development.
 A language spoken in daily use with a literary tradition that is not widely distributed.
 A process of improvement in the conditions of people through diffusion of knowledge and technology.
+Movement of power from the central government to regional governments within state.
 A regional variety of a language distinguished by vocabulary, spelling, and pronunciation.
 The amount of food that an individual consumes, measured in kilocalories (Calories in the United States).
 The process of spread of a feature or trend from one place to another over time.
@@ -123,8 +132,8 @@ The process of change in the distinctive causes of death in each stage of the de
 The branch of medical science concerned with the incidence, distribution, and control of diseases that are prevalent among a population at a special time and are produced by some special causes not generally present in the affected locality.
 A purposeful policy designed by one ethnic or religious group to remove by violent and terror-inspiring means the civilian population of another ethnic or religious group from certain geographic areas.
 A place with a high concentration of an ethnic group that is distinct from those in the surrounding area.
-A religion with a relatively concentrated spatial distribution whose principles are likely to be based on the physical characteristics of the particular location in which its adherents are concentrated.
 Identity with a group of people who share the cultural traditions of a particular homeland or hearth.
+A religion with a relatively concentrated spatial distribution whose principles are likely to be based on the physical characteristics of the particular location in which its adherents are concentrated.
 A suburban area with a cluster of a particular ethnic population.
 The spread of a feature or trend among people from one area to another in an additive process.
 A language that was once used by people in daily activities but is no longer used.
@@ -149,29 +158,33 @@ A zone separating two states in which neither state exercises political control.
 An area organized around a node or focal point.
 Literal interpretation and strict adherence to basic principles of a religion (or a religious branch, denomination, or congregation).
 Creation of energy by joining the nuclei of two hydrogen atoms to form helium.
-An indicator constructed by the U.N. to measure the extent of each country’s gender inequality in terms of reproductive health, empowerment, and the labor market.
 An indicator constructed by the U.N. to measure the gender gap in the level of achievement in terms of income, education, and life expectancy.
+An indicator constructed by the U.N. to measure the extent of each country’s gender inequality in terms of reproductive health, empowerment, and the labor market.
 A living organism that possesses a novel combination of genetic material obtained through the use of modern biotechnology.
 The mass killing of a group of people in an attempt to eliminate the entire group from existence.
 A process of converting an urban neighborhood from a predominantly low-income, renter-occupied area to a predominantly middle-class, owner-occupied area.
+A boundary that is defined by a geographic feature.
 The development and analysis of data about Earth acquired through satellite and other electronic information technologies.
 A computer system that stores, organizes, analyzes, and displays geographic data.
+The study of the strategic value of land and sea in the context of national economic and military power and ambitions.
+The study of the strategic value of land and sea in the context of national economic and military power and ambitions.
 Identification and storage of a piece of information by its precise latitude and longitude coordinates.
 Energy from steam or hot water produced from hot or molten underground rocks.
 The process of redrawing legislative boundaries for the purpose of benefiting the party in power.
 During the Middle Ages, a neighborhood in a city set up by law to be inhabited only by Jews; now used to denote a section of a city in which members of any minority group live because of social, legal, or economic pressure.
-A system that determines the precise position of something on Earth through a series of satellites, tracking stations, and receivers.
 Actions or processes that involve the entire world and result in making something worldwide in scope.
+A system that determines the precise position of something on Earth through a series of satellites, tracking stations, and receivers.
 Seed of a cereal grass.
 A model which holds that the potential use of a service at a particular location is directly related to the number of people in a location and inversely related to the distance people must travel to reach the service.
-Rapid diffusion of new agricultural technology, especially new high-yield seeds and fertilizers.
 The anticipated increase in Earth’s temperature caused by carbon dioxide (emitted by burning fossil fuels) trapping some of the radiation emitted by the surface.
+Rapid diffusion of new agricultural technology, especially new high-yield seeds and fertilizers.
 The time in the zone encompassing the prime meridian, or 0° longitude.
 The value of the total output of goods and services produced in a country in a year, not accounting for money that leaves and enters the country.
 The value of the output of goods and services produced in a country in a year, including money that leaves and enters the country.
 A term once used for a worker who migrated to the developed countries of Northern and Western Europe, usually from Southern and Eastern Europe or from North Africa, in search of a higher-paying job.
 A repetitive act performed by a particular individual.
 The region from which innovative ideas originate.
+Argued that the greatest world power would be whoever gained control of the heartland of Eurasia. Developed by Halford Mackinder
 The spread of a feature or trend from one key person or node of authority or power to other persons or places.
 A religion in which a central authority exercises a high degree of control.
 The area surrounding a central place from which people are attracted to use the place’s goods and services (also known as market area).
@@ -180,14 +193,15 @@ An indicator constructed by the U.N. to measure the level of development for a c
 The study of different ways that individuals form ideas about place and give those places symbolic meanings.
 All of the water on and near Earth’s surface.
 Migration to a new location.
+One country exerts cultural or economic dominance over another country.
 A series of improvements in industrial technology that transformed the process of manufacturing goods.
 A modification of the HDI to account for inequality.
 The total number of deaths in a year among infants under 1 year of age for every 1,000 live births in a society.
 An area within a city in a less developed country in which people illegally establish residences on land they do not own or rent and erect homemade structures.
 A language used in education, work, mass media, and government.
 A form of subsistence agriculture characteristics of Asia’s major population concentrations in which farmers must expend a relatively large amount of effort to produce the maximum feasible yield from a parcel of land.
-Permanent movement within a particular country.
 Someone who has been forced to migrate for similar political reasons as a refugee but has not migrated across an international border.
+Permanent movement within a particular country.
 An arc that for the most part follows 180° longitude, although it deviates in several places to avoid dividing land areas. When the International Date Line is crossed heading east (toward America), the clock moves back 24 hours, or one entire day. When it is crossed heading west (toward Asia), the calendar moves ahead one day.
 Permanent movement from one country to another.
 Permanent movement from one region of a country to another.
@@ -233,23 +247,28 @@ An individual who helps to diffuse a universalizing religion.
 Commercial farming characterized by integration of crops and livestock; most of the crops are fed to animals rather than consumed directly by humans.
 All types of movements between locations.
 The doctrine of or belief in the existence of only one God.
+The relationship between a states size or shape & its political situation.
 A state that contains more than one ethnicity.
 A state that contains two or more ethnic groups with traditions of self-determination that agree to coexist peacefully by recognizing each other as distinct nationalities.
 A model of the internal structure of cities in which social groups are arranged around a collection of nodes of activities.
+Culturally defined group of people with a shared past and common future who relate to a territory and government.
 A state whose territory corresponds to that occupied by a particular ethnicity.
 Loyalty and devotion to a particular nationality.
 Identity with a group of people who share legal attachment to a particular country.
+The North Atlantic Treaty Organization, also called the North Atlantic Alliance, is an intergovernmental military alliance between 30 European and North American countries.
 The percentage growth of a population in a year, computed as the crude birth rate minus the crude death rate.
+The control of less-developed countries by developed countries through indirect means.
 The difference between the level of immigration and the level of emigration.
 A chain of communication that connects places.
 Transfer of some types of jobs, especially those requiring low-paid, less-skilled workers, from more developed to less developed countries.
-A farming practice that leaves all of the soil undisturbed and the entire residue of the previous year’s harvest left untouched on the fields.
 A business that sells its products primarily to consumers in the same settlement.
 The use of water that is returned to nature as a liquid.
 Pollution that originates from a large, diffuse area.
 A source of energy that has a finite supply capable of being exhausted.
 Something produced in nature more slowly than it is consumed by humans.
+A farming practice that leaves all of the soil undisturbed and the entire residue of the previous year’s harvest left untouched on the fields.
 The language adopted for use by a government for the conduct of business and publication of documents.
+The Organization of the Petroleum Exporting Countries.
 A decision by a corporation to turn over much of the responsibility for production to independent suppliers.
 Capturing fish faster than they can reproduce.
 A situation in which the number of people in an area exceeds the capacity of the environment to support life at a decent standard of living.
@@ -316,6 +335,7 @@ Something produced in nature more rapidly than it is consumed by humans.
 A substance in the environment that is useful to people, is economically and technologically feasible to access, and is socially acceptable to use.
 A system of planting crops on ridge tops in order to reduce farm production costs and promote greater soil conservation.
 A U.S. law that prevents a union and a company from negotiating a contract that requires workers to join the union as a condition of employment.
+Argued that sea power is more powerful and important than land power, developed by Nicholas Spykman.
 The four consecutive 15-minute periods in the morning and evening with the heaviest volumes of traffic.
 A place to deposit solid waste, where a layer of earth is bulldozed over garbage each day to reduce emissions of gases and odors from the decaying trash, to minimize fires, and to discourage vermin.
 A flooded field for growing rice.
@@ -327,6 +347,7 @@ Any activity that fulfills a human want or need and returns ­money to those who
 A permanent collection of buildings and inhabitants.
 The number of males per 100 females in the population.
 A person who works fields rented from a landowner and pays the rent and repays loans by turning over to the landowner a share of the crops.
+A barrier of trees and shrubs that protects against the wind and reduces erosion.
 A form of subsistence agriculture in which people shift activity from one field to another; each field is used for crops for a relatively few years and left fallow for a relatively long period.
 The physical character of a place.
 Location factors related to the costs of factors of production inside a plant, such as land, labor, and capital.
@@ -355,6 +376,7 @@ Seventeen goals adopted by the U.N. in 2015 to reduce disparities between develo
 A patch of land cleared for planting through slashing and burning.
 The combining of elements of two groups into a new cultural feature.
 A restriction on behavior imposed by social custom.
+An attempt to control pieces of the earths surface for politician and social ends
 The contribution of a location’s distinctive physical features to the way food tastes.
 The systematic use of violence by a group calculated to create an atmosphere of fear and alarm among a population or to coerce a government into actions it would not otherwise undertake or refrain from actions it wants to take.
 The portion of the economy concerned with transportation, communications, and utilities, sometimes extended to the provision of all goods and services to people in exchange for payment.
@@ -370,6 +392,7 @@ A group in society prevented from participating in the material benefits of a mo
 Dietary energy consumption that is continuously below the minimum requirement for maintaining a healthy life and carrying out light physical activity.
 The increasing gap in economic conditions between core and peripheral regions as a result of the globalization of the economy.
 An internal organization of a state that places most power in the hands of central government officials.
+193 countries, largest international organization, purposes were international forum, peacekeeping forces, humanitarian aid.
 A religion that attempts to appeal to all people, not just those living in a particular location.
 A central city and its surrounding built-up suburbs.
 In the United States, an urban area with between 2,500 and 50,000 inhabitants.
@@ -385,26 +408,3 @@ A form of Latin used in daily conversation by ancient Romans, as opposed to the 
 Rice planted on dry land in a nursery and then moved to a deliberately flooded field to promote growth.
 A decline of the total fertility rate to the point where the natural increase rate equals zero.
 A law that limits the permitted uses of land and maximum density of development in a community.
-Culturally defined group of people with a shared past and common future who relate to a territory and government.
-Forces that can divide a nation.
-Movement of power from the central government to regional governments within state.
-An area of a country that has degree of autonomy , or has freedom from an external authority.
-A meeting from 1884-1885 at which representatives of European nations agreed on rules colonization of Africa.
-A geographical feature on land such as a valley, defile or a bridge, or at sea such as a straight which an armed force is forced to pass, therefore greatly decreasing its combat, in order to reach its objective.
-A barrier of trees and shrubs that protects against the wind and reduces erosion.
-A state of political tension and military rivalry between nations that stops short of full-scale war, especially that which existed between the United States and Soviet Union following World War II.
-The study of the strategic value of land and sea in the context of national economic and military power and ambitions.
-A boundary that is defined by a geographic feature.
-The Organization of the Petroleum Exporting Countries.
-One country exerts cultural or economic dominance over another country.
-The action of changing from colonial to independent status.
-The control of less-developed countries by developed countries through indirect means.
-The study of the strategic value of land and sea in the context of national economic and military power and ambitions
-Argued that the greatest world power would be whoever gained control of the heartland of Eurasia. Developed by Halford Mackinder
-The relationship between a states size or shape & its political situation.
-Argued that sea power is more powerful and important than land power, developed by Nicholas Spykman.
-193 countries, largest international organization, purposes were international forum, peacekeeping forces, humanitarian aid.
-The North Atlantic Treaty Organization, also called the North Atlantic Alliance, is an intergovernmental military alliance between 30 European and North American countries.
-An attempt to control pieces of the earths surface for politician and social ends
-A cultural boundary, or cultural area, defines a geographic area wherein a group of people share the same cultural practices and traditions.
-The introduction of a democratic system or democratic principles.
