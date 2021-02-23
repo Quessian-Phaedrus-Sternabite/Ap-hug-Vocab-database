@@ -15,6 +15,9 @@ let definition = new Array();
 function main(){
     // Get word in the input box
     let term = $("#word_search").val();
+    if (term[term.length] == " "){
+        term -= " "
+    }
     // Get the words index
     let index1 = words.indexOf(term.toLowerCase());
     // Adds the definition and the term to the ouput
