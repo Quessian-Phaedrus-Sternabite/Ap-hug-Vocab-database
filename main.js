@@ -11,7 +11,7 @@ let definition = new Array();
     });
 
 // Buffer variable for the ouput of the text
-var output = "";
+let output = "";
 
 // Main function, executed on button press
 function main(){
