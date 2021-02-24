@@ -18,9 +18,11 @@ let stacking = false;
 function toggle_stacking(){
     if (stacking == false){
         stacking = true;
+        $("#toggle_stacking").css("background-color", "#ACD33F");
     }
     else{
         stacking = false;
+        $("#toggle_stacking").css("background-color", "white");
     };
 };
 

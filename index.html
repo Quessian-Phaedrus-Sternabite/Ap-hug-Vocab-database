@@ -53,16 +53,16 @@
         <button>
             <a href="dispAll.html">Show all words in Glossory</a>
         </button>
-        <p style="margin-bottom: 5pt; color: red; font-size: 10pt;">Words must be inputed exacly as they appear in the text unless there is an Acronym after the name in which case the acronym should be omited</p>
+        <p style="margin-bottom: 5pt; color: red; font-size: 10pt;">Words must be inputed exacly as they appear in the text unless there is an Acronym after the name in which case the acronym should be omited. <a href="help.html" style="text-decoration: underline; color: blue;">Click here for help using the webpage</a></p>
         <p>What word do you want to find?</p>
         <input type="text" id="word_search" placeholder="Term:">
         <br>
-        <button onclick="main();">Search</button>
+        <button id="search" onclick="main();">Search</button>
         <button onclick="copy_text();">Copy</button>
-        <button onclick="toggle_stacking();">Toggle Stacking</button>
+        <button onclick="toggle_stacking();" id="toggle_stacking">Toggle Stacking</button>
         <p style="margin-bottom: 20pt;"></p>
-        <div id="Output" style="margin-left: 50pt; margin-right: 50pt;">
-        </div>
     </center>
+    <div id="Output" style="margin-left: 150pt; margin-right: 50pt;">
+    </div>
 </body>
 </html>
