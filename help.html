@@ -5,7 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Help Page</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
+<script>
+    // Function toggled on dark mode
+    let dark_mode = false;
+    function toggle_dark_mode(){
+        if (dark_mode == false){
+            $("#background").css("background-color", "rgb(50, 50, 50)");
+            $("p").css("color", "white");
+            $("h1").css("color", "white");
+            dark_mode = true;
+        }
+        else{
+            $("#background").css("background-color", "white");
+            $("p").css("color", "black");
+            $("h1").css("color", "black");
+            dark_mode = false;
+        };
+    };
+</script>
 <style>
     *{
         font-family: Arial, Helvetica, sans-serif;
@@ -18,7 +37,8 @@
         background-color: lightgray;
     }
 </style>
-<body>
+<body id="background">
+    <button onclick="toggle_dark_mode();">Toggle dark mode</button>
     <a href="index.html" style="margin-bottom: 20pt;">Back to mainpage</a>
     <h1>Webpage Help</h1>
     <br>

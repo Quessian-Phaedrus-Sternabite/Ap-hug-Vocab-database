@@ -13,6 +13,7 @@ let definition = new Array();
 // Variables needed for the global operation
 let output_buffer = "";
 let stacking = false;
+let dark_mode = false;
 
 // Toggle stacking function
 function toggle_stacking(){
@@ -41,17 +42,22 @@ function main(){
     let index1 = words.indexOf(term_search.toLowerCase());
     // Adds the definition and the term to the ouput
     // Check stacking
+    let char_out = "<p>" + term + " - " + definition[index1] + "</p>";
+    if (dark_mode == true){
+        char_out = "<p style=\"color: white;\">" + term + " - " + definition[index1] + "</p>";
+    }
     if (stacking == false){
-        output = "<p>" + term + " - " + definition[index1] + "</p>";
-        output_buffer = term + " - " + definition[index1];
+        output = char_out;
+        output_buffer = char_out;
     }
     else{
-        output += "<p>" + term + " - " + definition[index1] + "</p>";
-        output_buffer += term + " - " + definition[index1];
+        output += char_out;
+        output_buffer += char_out;
     };
     term_search = "";
     // Ouputs the output
     $("#Output").html(output);
+    check_toggle()
 };
 
 function copy_text() {
@@ -66,3 +72,36 @@ function copy_text() {
     document.execCommand("copy");
     document.body.removeChild(dummy);
 }
+
+// Function toggled on dark mode toggle
+function toggle_dark_mode(){
+    if (dark_mode == false){
+        $("#background").css("background-color", "rgb(50, 50, 50)");
+        $("p").css("color", "white");
+        $("h1").css("color", "white");
+        $("#red").css("color", "red");
+        dark_mode = true;
+    }
+    else{
+        $("#background").css("background-color", "white");
+        $("p").css("color", "black");
+        $("h1").css("color", "black");
+        $("#red").css("color", "red");
+        dark_mode = false;
+    }
+};
+
+function check_toggle(){
+    if (dark_mode == false){
+        $("#background").css("background-color", "white");
+        $("p").css("color", "black");
+        $("h1").css("color", "black");
+        $("#red").css("color", "red");
+    }
+    else{
+        $("#background").css("background-color", "rgb(50, 50, 50)");
+        $("p").css("color", "white");
+        $("h1").css("color", "white");
+        $("#red").css("color", "red");
+    };
+};
