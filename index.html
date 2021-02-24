@@ -60,7 +60,13 @@
         <button onclick="toggle_stacking();" id="toggle_stacking">Toggle Stacking</button>
         <p style="margin-bottom: 20pt;"></p>
     </center>
-    <div id="Output" style="margin-left: 150pt; margin-right: 10pt;">
+    <div id="Output" style="margin-left: 150pt; margin-right: 50pt;">
     </div>
+    <script>
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|BB|PlayBook|IEMobile|Windows Phone|Kindle|Silk|Opera Mini/i.test(navigator.userAgent)) {
+            $("#Output").css("margin-left", "50pt")
+            $("#Output").css("margin-right", "10pt")
+        }
+    </script>
 </body>
 </html>
