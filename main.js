@@ -43,6 +43,7 @@ function main(){
     let index1 = words.indexOf(term_search.toLowerCase());
     // Adds the definition and the term to the ouput
     // Check stacking
+    let output = "";
     let char_out = "<p>" + term + " - " + definition[index1] + "</p>";
     if (dark_mode == true){
         char_out = "<p style=\"color: white;\">" + term + " - " + definition[index1] + "</p>";
