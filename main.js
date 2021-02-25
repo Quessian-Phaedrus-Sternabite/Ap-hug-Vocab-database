@@ -43,17 +43,18 @@ function main(){
     let index1 = words.indexOf(term_search.toLowerCase());
     // Adds the definition and the term to the ouput
     // Check stacking
-    let char_out = "<p>" + term + " - " + definition[index1] + "</p>";
+    let template = term + " - " + definition[index1];
+    let char_out = "<p>" + template  + "</p>";
     if (dark_mode == true){
-        char_out = "<p style=\"color: white;\">" + term + " - " + definition[index1] + "</p>";
+        char_out = "<p style=\"color: white;\">" + template + "</p>";
     }
     if (stacking == false){
         output = char_out;
-        output_buffer = char_out;
+        output_buffer = template;
     }
     else{
         output += char_out;
-        output_buffer += char_out;
+        output_buffer += template;
     };
     term_search = "";
     // Ouputs the output
