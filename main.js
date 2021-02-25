@@ -14,6 +14,7 @@ let definition = new Array();
 let output_buffer = "";
 let stacking = false;
 let dark_mode = false;
+let output = "";
 
 // Toggle stacking function
 function toggle_stacking(){
